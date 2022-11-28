@@ -1,0 +1,17 @@
+{
+  "vendor": "itgloberspartnercl",
+  "name": "whatsapp-button",
+  "version": "0.0.1",
+  "title": "whatsapp button component",
+  "description": "whatsapp button este en boton que abre un enlace a whatsapp y recibe un telefono, un logo y un mensaje",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "store": "0.x"
+  },
+  "dependencies": {},
+  "registries": ["smartcheckout"],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
